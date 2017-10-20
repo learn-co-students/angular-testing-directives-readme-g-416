@@ -1,0 +1,14 @@
+          ok  Starting native_osx for sync scholastica-sync
+          ok  scholastica-sync container still running, restarting unison in container
+     success  Sync container started
+     success  Showing unison logs from your sync container: scholastica-sync
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:23:40.51 on 18 Oct 2017
+   Sync Log:  [BGN] Copying node_modules/node-gyp/gyp/tools/.DS_Store from /host_sync to /app_sync
+   Sync Log:  [END] Copying node_modules/node-gyp/gyp/tools/.DS_Store
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:23:40.53 on 18 Oct 2017
+   Sync Log:  Synchronization complete at 16:23:40  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:23:45.57 on 18 Oct 2017
+   Sync Log:  [BGN] Copying node_modules/node-gyp/gyp/tools/Xcode/.DS_Store from /host_sync to /app_sync
+   Sync Log:  [END] Copying node_modules/node-gyp/gyp/tools/Xcode/.DS_Store
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:23:45.58 on 18 Oct 2017
+   Sync Log:  Synchronization complete at 16:23:45  (1 item transferred, 0 skipped, 0 failed)
